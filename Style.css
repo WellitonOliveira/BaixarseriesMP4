@@ -1,0 +1,214 @@
+body {
+    background-color: gray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.Style {
+    background-color: white;
+    margin-left: 200px;
+    width: 1170px;
+  }  
+  .imgtop {
+       text-align: center;
+       height: 100px;
+       
+  }
+  .point {
+      text-align: center;
+      height: 137px;
+  }
+  .pointb {
+    color: white;
+    background-color: black;
+    text-align: center;
+    height: 0px;
+}
+  .btn {
+    text-align: left;
+    margin-left: 30px;
+    height: 0px;
+  }
+  .b{
+    height: 0px;
+    margin-left: 250px;
+  }
+  .t{
+    height: 0px;
+    margin-left: 500px;
+  }
+  .n{
+    height: 80px;
+    margin-left: 790px;
+  }
+    .btn1 {
+      text-align: left;
+      text-transform: uppercase;
+      font-weight: bold;
+      display: block;
+      height: 0px;
+      margin-left: 215px;
+      width: 190px;
+      color: black;
+  }
+  .pesca {
+    height: 40px;
+  }
+  .rox {
+      color: white;
+      background-color: rgb(85, 32, 134);
+      margin-left: 25px;
+      width: 755px;
+      height: 5px;
+  }
+  .link1t {
+      font-size: 15px;
+      text-align: left;
+      width: 380px;
+      height: 0px;
+      margin-left: 38px;
+  }
+  .link2t {
+    font-size: 15px;
+    text-align: right;
+    width: 380px;
+    margin-left: 390px;
+}
+  .mon {
+   text-align: left;
+   margin-left: 44px;
+   height: 15px;
+  }
+  .day {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-size: 33px;
+      color: dodgerblue;
+      text-align: left;
+      margin-left: 18px;
+      height: 0px;
+  }
+  .mini {
+      text-align: left;
+      color: white;
+      background-color: lightgray;
+      margin-left: 30px;
+      width: 50px;
+      height: 5px;
+  }
+  .titu {
+      text-align: left;
+      color: rgb(37, 36, 36);
+      width: 750px;
+      margin-left: 88px;
+      height: 65px;
+  }
+  .titu2 {
+    text-align: left;
+    font-size: 13px;
+    margin-left: 20px;
+}
+  .etapa2{
+    text-align: left;
+    height: 0px;
+    margin-left: 20px;
+  }
+  .descricao{
+    font-size: 13px;
+    color:black;
+    text-align: left;
+    width: 300px;
+    margin-left: 350px;
+    height: 340px;
+  }
+  .baixar{
+    color:red;
+    text-align: left;
+    margin-left: 20px;
+  }
+  .baixar2{
+    font-size: 20px;
+    color:blue;
+    text-align: left;
+    height: 30px;
+    margin-left: 350px;
+  }
+  .sino{
+    text-align: left;
+    width: 740px;
+    margin-left: 20px;
+  }
+  .baixar2b{
+    color:blue;
+    text-align: left;
+    margin-left: 20px;
+  }
+  .links {
+      margin-left: 25px;
+  }
+  .Copy{
+    color: rgb(26, 25, 25);
+    text-align: center;
+    height: 25px;
+  }
+  .firstbody {
+      height: 305px;
+  }
+  .Style2 {
+      text-align: right;
+      background-color: white;
+      margin-left: 985px;
+      width: 385px;
+  }  
+  .pesca {
+    text-align: left;
+    margin-left: 40px;
+
+  }
+  .pre {
+    color: white;
+    background-color: black;
+    margin-left: 20px;
+    width: 340px;
+    height: 5px;
+}
+.btp {
+    text-align: left;
+    color: red;
+    margin-left: 215px;
+    height: 0px;
+}
+.busca {
+    text-align: left;
+    margin-left: 40px;
+    height: 0px;
+}
+.pesq {
+    text-align: left;
+    margin-left: 30px;
+    height: 50px;
+}
+.a {
+  text-align: left;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 14px;
+  color: rgb(44, 44, 44);
+  margin-left: 30px;
+}
+.avs {
+  text-align: left;
+  font-size: 14px;
+  color: red;
+  margin-left: 40px;
+  width: 300px;
+}
+.rec {
+  text-align: center;
+}
+.point1 {
+text-align: center;
+color: white;
+height: 1px;
+}
+.atu {
+  text-align: center;
+  color: rgb(80, 131, 131);
+  height: 15px;
+}
